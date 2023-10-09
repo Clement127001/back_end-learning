@@ -7,6 +7,8 @@
 //__filename
 //__dirname
 
+//this file contain the most commonly used global varibles.
+
 console.log("Dir name : " + __dirname);
 console.log("Require info : " + require);
 console.log("Modules : " + module);
