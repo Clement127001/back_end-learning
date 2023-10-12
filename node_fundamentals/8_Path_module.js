@@ -10,14 +10,9 @@ const filePath = path.join("/Content/", "SubFolder", "test.txt");
 const baseName = path.basename(filePath);
 console.log(baseName);
 
-//normalising the url
+//normalising the file path
 console.log(path.normalize(filePath));
 
 //resolving the absolute path (start from the root directory '/')
-const resolvedPath = path.resolve(
-  __dirname,
-  "Content",
-  "SubFolder",
-  "test.txt"
-);
+const resolvedPath = path.resolve(__dirname, "Content", "SubFolder");
 console.log(resolvedPath);
