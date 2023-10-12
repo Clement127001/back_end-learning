@@ -1,0 +1,1 @@
+This is the result of the write async function : This is the first file used for fs module learning., This is the second file for the fs module learning.This is the result of the write async function : This is the first file used for fs module learning., This is the second file for the fs module learning.
