@@ -15,3 +15,4 @@ const myDetail = () => {
 //2 -> using default export used commonly in exporting the componets in react js
 
 module.exports = { sayThankYou, myDetail };
+w
