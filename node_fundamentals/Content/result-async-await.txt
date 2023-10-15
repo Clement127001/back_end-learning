@@ -1,0 +1,1 @@
+This is the result from the async and await approach of reading and writing file : This is the first file used for fs module learning., This is the second file for the fs module learning. 
